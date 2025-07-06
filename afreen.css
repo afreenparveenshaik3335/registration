@@ -1,0 +1,37 @@
+*{
+	margin:0;
+	padding:0;
+	}
+.h-center{
+	text-align:center;
+	padding:20px;
+	font-family:sans-serif;
+}
+.sania-background{
+	background-image:url("https://wallpaperaccess.com/full/138541.jpg");
+	background-size:280%;
+	background-position:-400px 0;
+	height:150vh;
+}
+div.main{
+	width:400px;
+	margin:100px auto 0px auto;
+}
+div.register{
+	background-color:#e3b3c6;
+	width:100%;
+	font-size:18px;
+	border-radius:10px;
+	box-shadow:2px 2px 15px ;
+}	
+
+.sania-box{
+	color:#000000;
+}
+.sania-label{
+	width:100px;
+	display:inline-block;
+}
+.sania-button{
+	background-color:#ffffff;
+}
